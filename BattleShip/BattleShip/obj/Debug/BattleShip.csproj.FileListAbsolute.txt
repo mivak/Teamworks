@@ -1,0 +1,12 @@
+D:\Misho\Teamwork Assignment CSharp 2\BattleShip\bin\Debug\BattleShip.exe.config
+D:\Misho\Teamwork Assignment CSharp 2\BattleShip\bin\Debug\BattleShip.exe
+D:\Misho\Teamwork Assignment CSharp 2\BattleShip\bin\Debug\BattleShip.pdb
+D:\Misho\Teamwork Assignment CSharp 2\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+D:\Misho\Teamwork Assignment CSharp 2\BattleShip\obj\Debug\BattleShip.exe
+D:\Misho\Teamwork Assignment CSharp 2\BattleShip\obj\Debug\BattleShip.pdb
+C:\TelerikAcademy\CSharp Part 2\Teamwork Assignment CSharp 2\BattleShip\bin\Debug\BattleShip.exe.config
+C:\TelerikAcademy\CSharp Part 2\Teamwork Assignment CSharp 2\BattleShip\obj\Debug\BattleShip.exe
+C:\TelerikAcademy\CSharp Part 2\Teamwork Assignment CSharp 2\BattleShip\obj\Debug\BattleShip.pdb
+C:\TelerikAcademy\CSharp Part 2\Teamwork Assignment CSharp 2\BattleShip\bin\Debug\BattleShip.exe
+C:\TelerikAcademy\CSharp Part 2\Teamwork Assignment CSharp 2\BattleShip\bin\Debug\BattleShip.pdb
+C:\TelerikAcademy\CSharp Part 2\Teamwork Assignment CSharp 2\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
