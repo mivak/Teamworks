@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ElectronicStoreMySQL.Model" GeneratedClassName="mySQLSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MYSQL_URI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=localhost; Port=3306; Database=mydb; Uid=root; Pwd=6ponkii6lici; pooling=true</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<expenses-by-month>
+  <manufacturer name="Apple Inc.">
+    <expenses month="Jul-2013">30000.00</expenses>
+    <expenses month="Aug-2013">40000.00</expenses>
+  </manufacturer>
+  <manufacturer name="Samsung Electronics Co.">
+    <expenses month="Jul-2013">20000.00</expenses>
+    <expenses month="Aug-2013">18000.00</expenses>
+  </manufacturer>
+  <manufacturer name="Panasonic Corp.">
+    <expenses month="Jul-2013">12000.00</expenses>
+    <expenses month="Aug-2013">18000.00</expenses>
+  </manufacturer>
+</expenses-by-month>
